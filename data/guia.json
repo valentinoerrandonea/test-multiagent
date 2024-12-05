@@ -1,0 +1,216 @@
+{
+    "Full Assessment Report for {company} in {market}": {
+        "1. Introduction": {
+            "1.1 Executive Summary": {
+                "description": "Genera un resumen ejecutivo que incluya una introducción al sector o industria en {market}, tendencias actuales y futuras, el propósito del análisis, la justificación del estudio, la importancia del mercado en el contexto económico actual, oportunidades de negocio identificadas, un resumen de hallazgos clave, principales conclusiones y recomendaciones, así como datos cuantitativos relevantes como crecimiento esperado y tamaño del mercado.",
+                "content": ""
+            },
+            "1.2 Scope of Study": {
+                "description": "Define el alcance del estudio especificando el periodo de tiempo considerado, la geografía cubierta y los segmentos específicos analizados en {market}. Asegúrate de evitar ambigüedades en los límites geográficos o temporales y la inclusión de áreas fuera del enfoque principal sin justificación.",
+                "content": ""
+            },
+            "1.3 Methodology": {
+                "description": "Describe la metodología utilizada en el informe, detallando las fuentes de datos primarias y secundarias, los métodos de análisis empleados como SWOT, PESTEL o análisis estadístico, y las limitaciones del estudio. Justifica la elección de la metodología para asegurar la confiabilidad y relevancia de las conclusiones.",
+                "content": ""
+            }
+        },
+        "2. Country Profile": {
+            "2.1 Geography": {
+                "description": "Proporciona una visión general de la geografía de {market}, incluyendo su posición estratégica, proximidad a mercados clave, acceso a rutas comerciales principales, infraestructura logística como puertos, aeropuertos y carreteras, y la existencia de zonas económicas especiales o parques industriales. Evita incluir información geográfica irrelevante o detalles técnicos sin relevancia para el mercado objetivo.",
+                "content": ""
+            },
+            "2.2 Geopolitics": {
+                "description": "Evalúa el entorno geopolítico de {market}, incluyendo alianzas regionales e internacionales, tratados de libre comercio, estabilidad política y legal, y la calidad del sistema legal y la protección de inversiones. Evita análisis políticos superficiales e ignora conflictos o tensiones que puedan afectar el mercado.",
+                "content": ""
+            },
+            "2.3 Economy": {
+                "description": "Analiza la economía de {market}, detallando indicadores clave como PIB, tasa de crecimiento económico, inflación y tipos de cambio. Examina los sectores clave que impulsan la economía, el grado de diversificación económica y evita presentar datos económicos desactualizados o no relacionados directamente con el impacto en el mercado objetivo.",
+                "content": ""
+            },
+            "2.4 Demographics": {
+                "description": "Describe la demografía de {market}, incluyendo el tamaño y composición de la población, distribución urbana/rural, y tendencias en el poder adquisitivo. Asegúrate de evitar datos demográficos irrelevantes y proporciona una segmentación detallada que facilite el análisis.",
+                "content": ""
+            }
+        },
+        "3. Target Sector": {
+            "3.1 Sector Definition": {
+                "description": "Define el sector objetivo en {market}, describiendo el segmento específico, los productos o servicios incluidos, la cadena de valor del sector y su importancia en {market} en términos de contribución al PIB, empleo y exportaciones. Evita definiciones vagas y la omisión de subsectores relevantes.",
+                "content": ""
+            },
+            "3.2 Regulations and Barriers": {
+                "description": "Detalla las normativas y barreras de entrada en el sector objetivo de {market}, incluyendo regulaciones técnicas y legales, requisitos documentales para importación/exportación y licencias necesarias. Asegúrate de no omitir regulaciones clave ni presentar información legal sin referencias adecuadas.",
+                "content": ""
+            },
+            "3.3 Trends and Dynamics": {
+                "description": "Analiza las tendencias y dinámicas del sector objetivo en {market}, considerando factores macro y microeconómicos, innovaciones tecnológicas y su impacto en el sector. Evita ignorar tendencias emergentes y centra el análisis en factores futuros además de los históricos.",
+                "content": ""
+            }
+        },
+        "4. Market Volume": {
+            "4.1 Market Size": {
+                "description": "Cuantifica el tamaño del mercado en {market}, proporcionando el valor y volumen actuales, datos de ventas, producción y consumo, así como un análisis histórico y proyecciones de crecimiento (CAGR). Evita presentar solo cifras sin contexto o análisis y utiliza proyecciones fundamentadas en datos históricos.",
+                "content": ""
+            },
+            "4.2 Product Segments": {
+                "description": "Clasifica los productos o servicios en {market} por categorías clave, analizando la demanda en términos de precios y calidad. Identifica las preferencias de los consumidores respecto a precios y estándares de calidad, evitando ignorar subcategorías significativas y relacionando la demanda con factores como el poder adquisitivo.",
+                "content": ""
+            },
+            "4.3 Growth Factors": {
+                "description": "Identifica los factores que impulsan el crecimiento del mercado en {market}, incluyendo políticas gubernamentales, demografía y comportamiento del consumidor. Asegúrate de considerar factores externos que pueden influir en el crecimiento y analiza su impacto real.",
+                "content": ""
+            },
+            "4.4 Competitiveness": {
+                "description": "Evalúa la competitividad en {market}, detallando las cuotas de mercado actuales por proveedor, los productos o servicios más demandados y evitando ignorar la presencia de nuevos entrantes o competidores emergentes. Realiza un análisis comparativo entre competidores.",
+                "content": ""
+            }
+        },
+        "5. Trends and Preferences of Target Consumer": {
+            "5.1 Global and Local Trends": {
+                "description": "Analiza las tendencias globales y locales que afectan al consumidor en {market}, incluyendo estilos predominantes, impacto de la tecnología y canales digitales utilizados por los consumidores. Evita centrarse únicamente en tendencias globales y no considerar el impacto de la digitalización.",
+                "content": ""
+            },
+            "5.2 Cultural and Social Factors": {
+                "description": "Examina los factores culturales y sociales que influyen en las preferencias de los consumidores en {market}, como gustos, preferencias alimenticias, hábitos de consumo y requisitos de productos basados en tradiciones o valores locales. Evita generalizar comportamientos sin segmentación adecuada.",
+                "content": ""
+            },
+            "5.3 Buying Behavior": {
+                "description": "Describe el comportamiento de compra de los consumidores en {market}, incluyendo los canales de preferencia, sensibilidad al precio, calidad y sostenibilidad. Asegúrate de diferenciar entre distintos segmentos de consumidores y considerar la importancia de la sostenibilidad si es relevante.",
+                "content": ""
+            },
+            "5.4 Social Media Analysis": {
+                "description": "Realiza un análisis del uso de redes sociales en {market}, identificando las principales plataformas utilizadas, comportamiento en línea de los consumidores, y la influencia de influencers y marketing digital. Evita no actualizar el análisis con plataformas emergentes y segmentar adecuadamente las audiencias.",
+                "content": ""
+            }
+        },
+        "6. Market Segmentation": {
+            "6.1 Geographic Variables": {
+                "description": "Segmenta el mercado en {market} basado en variables geográficas, diferenciando entre regiones urbanas y rurales, y considerando diferencias climáticas y culturales. Evita no considerar variaciones significativas dentro de una misma región y subestimar la influencia de factores geográficos.",
+                "content": ""
+            },
+            "6.2 Economic Variables": {
+                "description": "Segmenta el mercado en {market} según variables económicas, incluyendo la distribución del ingreso y las preferencias por segmentos de precio. Asegúrate de actualizar la segmentación económica con cambios recientes y no ignorar la movilidad entre segmentos de ingreso.",
+                "content": ""
+            },
+            "6.3 Demographic Variables": {
+                "description": "Segmenta el mercado en {market} utilizando variables demográficas como grupos de edad, género, y tamaño y composición de los hogares. Evita generalizar comportamientos demográficos sin una segmentación detallada e ignora tendencias demográficas emergentes.",
+                "content": ""
+            },
+            "6.4 Behavioral Variables": {
+                "description": "Segmenta el mercado en {market} basándote en variables comportamentales como estilos de vida, valores y motivaciones de compra. Asegúrate de validar las variables comportamentales con datos de mercado y considerar la evolución de los estilos de vida y valores con el tiempo.",
+                "content": ""
+            }
+        },
+        "7. Competition": {
+            "7.1 Local Competition": {
+                "description": "Identifica y evalúa a los principales competidores locales reales en {market}, analizando sus cuotas de mercado, fortalezas, debilidades y estrategias de diferenciación en términos de precio, calidad y servicio. Evita ignorar competidores emergentes o menos conocidos con potencial de crecimiento.",
+                "content": ""
+            },
+            "7.2 International Competition": {
+                "description": "Evalúa a los competidores internacionales reales presentes o con potencial de ingreso al mercado {market}, analizando su participación, adaptaciones de estrategias al entorno local y su influencia en el mercado local. Evita no considerar cómo estas empresas influyen en el mercado local e ignora sus estrategias de entrada y expansión.",
+                "content": ""
+            },
+            "7.3 Comparative Analysis": {
+                "description": "Realiza una comparativa entre los competidores reales en {market}, analizando precios, calidad y alcance. Identifica brechas y oportunidades para competir aprovechando áreas donde la competencia es débil. Evita comparar solo con los líderes del mercado sin considerar otros actores relevantes y presenta comparaciones con datos cuantitativos sólidos.",
+                "content": ""
+            }
+        },
+        "8. SWOT Analysis": {
+            "8.1 Strengths": {
+                "description": "Desarrolla un análisis de las fortalezas de {company} en {market}, destacando capacidades internas, recursos únicos, tecnología avanzada, reputación de marca y ventajas competitivas que distinguen a la empresa de sus competidores. Evita inflar las fortalezas sin evidencia concreta e ignora aspectos que podrían ser debilidades internas.",
+                "content": ""
+            },
+            "8.2 Weaknesses": {
+                "description": "Identifica las debilidades de {company} en {market}, incluyendo limitaciones internas frente a la competencia, recursos limitados y áreas donde la empresa necesita mejorar. Asegúrate de no minimizar o ignorar debilidades críticas y proporciona soluciones o estrategias para mitigarlas.",
+                "content": ""
+            },
+            "8.3 Opportunities": {
+                "description": "Analiza las oportunidades en {market} que {company} puede aprovechar, incluyendo dinámicas del mercado que favorecen el crecimiento, nichos de mercado sin explotar, cambios en la regulación que benefician a la empresa, innovaciones y tendencias favorables. Evita identificar oportunidades sin considerar su viabilidad o alineación con las capacidades de la empresa.",
+                "content": ""
+            },
+            "8.4 Threats": {
+                "description": "Identifica las amenazas externas que podrían afectar a {company} en {market}, como competencia intensificada, cambios regulatorios adversos, fluctuaciones económicas, riesgos políticos, desastres naturales y cambios tecnológicos disruptivos. Evita subestimar la gravedad de las amenazas y considera cómo podrían evolucionar con el tiempo.",
+                "content": ""
+            }
+        },
+        "9. Events and Trade Shows of the Sector": {
+            "9.1 International Trade Shows": {
+                "description": "Identifica y detalla las ferias internacionales relevantes para {market}, incluyendo ubicación, fechas, temáticas principales y sectores específicos que abordan. Evita incluir eventos no relevantes y no verificar la actualidad y relevancia de los eventos listados.",
+                "content": ""
+            },
+            "9.2 Networking Opportunities": {
+                "description": "Describe las oportunidades de networking en eventos y ferias de {market}, identificando actores clave presentes como clientes potenciales, distribuidores y socios estratégicos, así como actividades de networking como sesiones de matchmaking, talleres y paneles de discusión. Evita no identificar claramente los beneficios de asistir a cada evento.",
+                "content": ""
+            },
+            "9.3 Expected Outcomes": {
+                "description": "Define los resultados esperados de la participación en eventos y ferias en {market}, como el incremento en visibilidad, oportunidades comerciales y generación de leads. Evita establecer expectativas irreales y no medir o evaluar el impacto de la participación en eventos anteriores.",
+                "content": ""
+            }
+        },
+        "10. Strategy": {
+            "10.1 General Objective": {
+                "description": "Establece los objetivos generales para {company} en {market}, incluyendo metas específicas y medibles como penetración en el mercado, aumento de cuota de mercado, reconocimiento de marca y define indicadores de éxito (KPIs) como ventas, número de clientes nuevos, tasa de retención de clientes, visibilidad en medios digitales y ROI de campañas de marketing. Evita objetivos vagos o no medibles y asegura que las metas estén alineadas con el análisis previo.",
+                "content": "{objective}"
+            },
+            "10.2 Implementation Phases": {
+                "description": "Define las fases de implementación de la estrategia para {market}, incluyendo preparativos como investigación adicional, desarrollo de productos, planificación logística y selección de socios estratégicos; lanzamiento con estrategias de marketing inicial, distribución de productos y eventos de lanzamiento; y consolidación con expansión de mercado, optimización de operaciones y fidelización de clientes. Asegúrate de mantener una secuencia lógica y asignar tiempos y recursos adecuados.",
+                "content": ""
+            },
+            "10.3 Commercial Strategy": {
+                "description": "Desarrolla la estrategia comercial para {company} en {market}, incluyendo la selección de canales de distribución como intermediarios, plataformas de e-commerce y tiendas propias; campañas de marketing tradicional y digital, marketing de contenidos, marketing en redes sociales, email marketing, promociones y descuentos, y marketing de influencers. Evita no diversificar los canales y asegúrate de adaptar las campañas al contexto local.",
+                "content": ""
+            },
+            "10.4 Budget and Projections": {
+                "description": "Elabora el presupuesto y las proyecciones financieras para la estrategia en {market}, incluyendo estimaciones de ingresos y costos, análisis de rentabilidad, asignación de recursos, cronograma financiero y proyecciones de flujo de caja. Asegúrate de basar las proyecciones en datos realistas y considerar contingencias.",
+                "content": ""
+            },
+            "10.5 Strategic Alliances": {
+                "description": "Identifica y desarrolla alianzas estratégicas para {company} en {market}, incluyendo socios potenciales como empresas complementarias, distribuidores, proveedores clave y organizaciones. Justifica las alianzas basándote en sinergias, acceso a nuevos mercados y mejora de la oferta de valor. Detalla el proceso de negociación, acuerdos, presupuesto estimado y plazos.",
+                "content": ""
+            },
+            "10.6 Innovation and Differentiation": {
+                "description": "Desarrolla propuestas de valor únicas para {company} en {market}, enfocándote en características diferenciadoras, experiencia del cliente mejorada, innovaciones tecnológicas y estrategias de diferenciación como personalización, calidad superior y sostenibilidad. Evita innovaciones sin alineación con el mercado objetivo y falta de diferenciación clara.",
+                "content": ""
+            },
+            "10.7 Retention and Loyalty Strategies": {
+                "description": "Implementa estrategias de retención y fidelización para los clientes de {company} en {market}, incluyendo programas de lealtad, atención al cliente excepcional, engagement continuo y ofertas exclusivas para clientes recurrentes. Evita no monitorear la satisfacción del cliente y la falta de personalización en las interacciones.",
+                "content": ""
+            }
+        },
+        "11. References": {
+            "11.1 Academic Sources": {
+                "description": "Recopila y documenta fuentes académicas relevantes para respaldar los hallazgos del informe, incluyendo artículos de revistas científicas y libros especializados. Asegúrate de evitar fuentes no verificadas o de baja credibilidad.",
+                "content": ""
+            },
+            "11.2 Government Sources": {
+                "description": "Incluye fuentes gubernamentales fiables en el informe, como estadísticas oficiales e informes de agencias gubernamentales que respalden los datos y análisis presentados.",
+                "content": ""
+            },
+            "11.3 Industry Sources": {
+                "description": "Incorpora fuentes de la industria en el informe, tales como informes de consultoras, asociaciones sectoriales y estudios de mercado que aporten valor y credibilidad al análisis.",
+                "content": ""
+            }
+        },
+        "12. Additional Guidelines to Enhance Report Quality": {
+            "12.1 Structure and Presentation": {
+                "description": "Asegura la claridad y coherencia en el informe, utilizando encabezados y subencabezados claros, incluyendo visualizaciones de datos como gráficos, tablas y diagramas, y manteniendo un formato profesional con revisión de ortografía y gramática.",
+                "content": ""
+            },
+            "12.2 Depth and Detail": {
+                "description": "Profundiza en cada sección con análisis crítico, incluye estudios de caso o ejemplos específicos cuando sea relevante, y utiliza datos recientes indicando claramente la fecha de los mismos para asegurar la relevancia del análisis.",
+                "content": ""
+            },
+            "12.3 Relevance and Focus": {
+                "description": "Mantén el enfoque del análisis centrado en el mercado específico evaluado, evitando desviarse hacia temas no relacionados y personalizando el informe para adaptarlo a las necesidades específicas del cliente o proyecto, incluyendo recomendaciones personalizadas basadas en los hallazgos.",
+                "content": ""
+            },
+            "12.4 Validation and Reliability": {
+                "description": "Verifica los datos cruzando información de múltiples fuentes para asegurar su exactitud, utilizando fuentes primarias siempre que sea posible, y mantén la transparencia en la metodología explicando claramente cómo se obtuvieron y analizaron los datos, reconociendo limitaciones y posibles sesgos del estudio.",
+                "content": ""
+            },
+            "12.5 Practical Recommendations": {
+                "description": "Ofrece recomendaciones claras y prácticas basadas en el análisis, priorizando acciones según su impacto y viabilidad, e incluye un plan de implementación detallado asignando responsabilidades y plazos para cada acción propuesta.",
+                "content": ""
+            }
+        }
+    }
+}

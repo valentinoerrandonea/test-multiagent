@@ -1,0 +1,7 @@
+# config/settings.py
+
+# Claves API
+OPENAI_API_KEY = ''
+TAVILY_API_KEY = ''
+ELASTICSEARCH_API_KEY = ''
+ELASTICSEARCH_CLOUD_ID = ''
